@@ -4,7 +4,6 @@ import vicuna
 
 import unittest
 
-
 class AdvancedTestSuite(unittest.TestCase):
     """Advanced test cases."""
 
